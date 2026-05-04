@@ -71,10 +71,10 @@ The following performance metrics were achieved by the trained models:
 
 ### Bar Plot Comparison of Models
 
-![Model's Result Using Bar Plot](https://github.com/izaanz/ML-Indian-House-Prediction/blob/main/img/model_comparison_bar_chart.png)
+![Model's Result Using Bar Plot]
 
 ### Radar Chart Models Comparison
-![Model's Result Using Radar](https://github.com/izaanz/ML-Indian-House-Prediction/blob/main/img/model_comparison_radar_chart.png)
+![Model's Result Using Radar]
 
 ## How to Use the Model
 
@@ -88,7 +88,7 @@ The following performance metrics were achieved by the trained models:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/izaanz/ML-Indian-House-Prediction
+   git clone 
    navigate to the cloned directory
    ```
 
@@ -173,15 +173,6 @@ Use predict_test.py to send test queries to your model:
 
   Modify this script to format your input data as per the model's expectations.
 
-## Deployed on Cloud
-
-This is a machine learning-based web application for predicting house prices in India. The app is powered by a regression model that takes various house attributes (such as location, size, number of rooms, etc.) to predict the price of a house.
-
-The app is deployed on the cloud and can be accessed through the following link:
-
-https://ml-indian-house-prediction.onrender.com/
-
-![Cloud Deployment](https://github.com/izaanz/ML-Indian-House-Prediction/blob/main/img/frontend.png)
 
 You can input house details into the app, and it will generate a predicted price based on the trained model.
 
